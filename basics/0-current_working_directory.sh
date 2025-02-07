@@ -1,3 +1,2 @@
 #!/bin/bash
-absdir=$(realpath "$DIR")
-echo $absdir
+echo $PWD
