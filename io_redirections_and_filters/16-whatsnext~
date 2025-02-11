@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -AN 3 "root" /etc/passwd | sort
