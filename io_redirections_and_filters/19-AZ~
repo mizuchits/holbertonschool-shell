@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'linuxize' | tr 'l-n' 'w-z'
